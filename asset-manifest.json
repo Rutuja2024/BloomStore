@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/BloomStore/static/js/main.ae79f46b.js",
+    "index.html": "/BloomStore/index.html",
+    "main.ae79f46b.js.map": "/BloomStore/static/js/main.ae79f46b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ae79f46b.js"
+  ]
+}
